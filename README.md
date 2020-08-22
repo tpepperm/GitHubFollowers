@@ -1,3 +1,4 @@
-# GitHubFollowers - an app to check GitHub followers of a user
+# GitHubFollowers
+## An app to check GitHub followers of a user
 
 ![](GHFollower.gif)
